@@ -1,8 +1,11 @@
 package main
-import(
+
+import (
 	"fmt"
-	"proj1/upp"
+
+	"github.com/SakSohail/learn_go/upp"
 )
-func main()  {
+
+func main() {
 	fmt.Println(upp.Upp("sal"))
 }
